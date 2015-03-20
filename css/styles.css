@@ -1,0 +1,219 @@
+body {
+  background: #EDECEC no-repeat center center fixed;
+  height: 100%;
+  min-width: 100%;
+  padding: auto 0;
+  margin: 0;
+  vertical-align: middle;
+  transition: all 1s; 
+    -o-transition: all 1s; 
+    -moz-transition: all 1s; 
+    -webkit-transition: all 1s;
+}
+
+th div:nth-child(1) {
+	width: 1360px;
+	width: 700px;
+	height: 100%;
+}
+
+div {
+	/*width: 300px;*/
+	/*height: 100%;*/
+	padding: 0;
+	/*background: url("../img/desk.JPG") fixed center no-repeat;*/
+	background-size: contain;
+	transition: all 2s; 
+	-o-transition: all 2s; 
+	-moz-transition: all 2s; 
+	-webkit-transition: all 2s;
+}
+
+div div:nth-child(1).bg {
+	width: 680px;
+	height: 100%;
+}
+
+.bg {
+	background: url("../img/desk.png") fixed left no-repeat;
+	background-size: cover;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 100vh;
+	margin-left: 0;
+	z-index: -100;
+	height: 100%;
+}
+
+h1:nth-child(1) {
+	padding-top: 100px;
+	color: white;
+	margin-top: 0;
+	margin-bottom: 0;
+	text-align: center;
+	font-family: Helvetica;
+  	font-size: 90px;
+  	letter-spacing: 8px;
+  	font-weight: 100;
+}
+
+h1:nth-child(2) {
+	letter-spacing: 6px;
+	color: white;
+	margin-top: 0;
+	margin-bottom: 0;
+	text-align: center;
+	font-family: Helvetica;
+  	font-size: 73px;
+  	font-weight: 100;
+}
+
+h1:nth-child(3) {
+	padding-top: 5px;
+	letter-spacing: 3px;
+	color: white;
+	margin-top: 0;
+	margin-bottom: 0;
+	text-align: center;
+	font-family: Helvetica;
+  	font-size: 30px;
+  	font-weight: 100;
+}
+
+ul {
+  text-align: center;
+  padding: 300px 0 0 0;
+  margin: 5px auto;
+  width: 513px;
+  transition: all 2s; 
+    -o-transition: all 2s; 
+    -moz-transition: all 2s; 
+    -webkit-transition: all 2s;
+}
+
+li {
+  display: inline;
+  text-align: center;
+  font-family: 'SignPainter-HouseScript', HouseScript;
+  font-size: 40px;
+  color: white;
+  transition: all 1s; 
+    -o-transition: all 1s; 
+    -moz-transition: all 1s; 
+    -webkit-transition: all 1s;
+}
+
+tr th:nth-child(1) a:link,
+tr th:nth-child(1) a:visited {
+	color: white;
+}
+
+tr th:nth-child(1) a:link,
+tr th:nth-child(1) a:visited,
+tr th:nth-child(1) a:hover,
+tr th:nth-child(1) a:active {
+  font-size: 40px;
+  padding: 10px 25px;
+  text-decoration: none;
+  transition: all 2s; 
+    -o-transition: all 2s; 
+    -moz-transition: all 2s; 
+    -webkit-transition: all 2s;
+}
+
+tr th:nth-child(1) a:hover,
+tr th:nth-child(1) a:active {
+	color: #F39F88;
+}
+
+table {
+	position: absolute;
+	height: 50%;
+	width: 30%;
+	top: 50%;
+	border-spacing: 0;
+	padding-top: 0;
+	padding-bottom: 0; 
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+img {
+	width: 500px;
+	height: 500px;
+}
+
+th {
+	padding: 0 10px;
+	border: 0;
+	border-spacing: 0;
+}
+
+p {
+	font-family: Helvetica;
+	font-weight: 100;
+	font-size: 20px;
+	color: black;
+	height: 60px;
+	padding: 5px 0;
+}
+
+h2 {
+	font-family: Helvetica;
+	font-weight: 100;
+	font-size: 20px;
+	color: black;
+	padding: 0;
+	margin: 0;
+}
+
+h3 {
+	font-family: Helvetica;
+	font-weight: 100;
+	font-size: 20px;
+	color: black;
+	padding: 0;
+	margin: 0;
+}
+
+h4 {
+	font-family: Helvetica;
+	font-weight: 100;
+	font-size: 15px;
+	color: black;
+	padding: 0;
+	margin: 0;
+}
+
+h5 {
+	font-family: Helvetica;
+	font-weight: 100;
+	font-size: 10px;
+	color: black;
+	padding: 0;
+	margin: 0;
+}
+
+td {
+  height: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
